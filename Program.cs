@@ -62,6 +62,12 @@ public void ThirdTest(){
     Assert.Fail();
 }
 
+[Test]
+public void FourthTest(){
+    Assert.False(driver.FindElement(By.Id("ui-id-6")).Displayed);
+}
+
+
 [TearDown]
 public void TestTearDown(){
 driver.Quit();
