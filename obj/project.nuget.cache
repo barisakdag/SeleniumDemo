@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RPI8SDXESo8YKz7B4FYWWXn4PLXaZizvRc5oI/N5BBZCXO8Bu//cLulqmJWeRwTzy+H9/wny/C1TEg7Y/wXpEA==",
+  "dgSpecHash": "G+bahvXOSkhqCin3JkmSY3wdlkHkNt1q9khauSSZtJ4fmkHo5jyvvNEANtbXn+WnK4KPksUx3iMChHgSWeSiyQ==",
   "success": true,
-  "projectFilePath": "/Users/barisakdag/Develop/SeleniumDemo/FirstTest/FirstTest.csproj",
+  "projectFilePath": "/Users/barisakdag/Develop/SeleniumDemo/FirstTest.csproj",
   "expectedPackageFiles": [
     "/Users/barisakdag/.nuget/packages/microsoft.codecoverage/17.1.0-preview-20211130-02/microsoft.codecoverage.17.1.0-preview-20211130-02.nupkg.sha512",
     "/Users/barisakdag/.nuget/packages/microsoft.net.test.sdk/17.1.0-preview-20211130-02/microsoft.net.test.sdk.17.1.0-preview-20211130-02.nupkg.sha512",

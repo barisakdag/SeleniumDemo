@@ -1289,11 +1289,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/barisakdag/Develop/SeleniumDemo/FirstTest/FirstTest.csproj",
+      "projectUniqueName": "/Users/barisakdag/Develop/SeleniumDemo/FirstTest.csproj",
       "projectName": "FirstTest",
-      "projectPath": "/Users/barisakdag/Develop/SeleniumDemo/FirstTest/FirstTest.csproj",
+      "projectPath": "/Users/barisakdag/Develop/SeleniumDemo/FirstTest.csproj",
       "packagesPath": "/Users/barisakdag/.nuget/packages/",
-      "outputPath": "/Users/barisakdag/Develop/SeleniumDemo/FirstTest/obj/",
+      "outputPath": "/Users/barisakdag/Develop/SeleniumDemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/barisakdag/.nuget/NuGet/NuGet.Config"
